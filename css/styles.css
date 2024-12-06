@@ -119,3 +119,17 @@ ul {
   margin-right: 1rem;
   cursor: pointer;
 }
+.header_container {
+  margin-top: 4rem;
+  display: flex;
+  width: 100%;
+}
+.header_filter {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  justify-content: space-around;
+}
+.header_filter_link {
+  color: var(--color-dark-1);
+}
